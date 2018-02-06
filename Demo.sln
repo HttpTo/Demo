@@ -14,6 +14,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "WCF.Demo\Services\Services.csproj", "{C1640723-0411-4384-B8A4-6998B66D5DB8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RabbitMQ.Demo", "RabbitMQ.Demo", "{3973917B-3E9D-4AF5-B29E-8D08BAF90F33}"
+	ProjectSection(SolutionItems) = preProject
+		ref.md = ref.md
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RpcReceive", "RabbitMQ.Demo\RpcReceive\RpcReceive.csproj", "{23EB3195-8F34-4631-B790-404B647D0A29}"
 EndProject
